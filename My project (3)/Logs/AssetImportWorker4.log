@@ -1,0 +1,1151 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.32f1 (b2e806cf271c) revision 11724806'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ru' Physical Memory: 16303 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+G:\Unity\6000.0.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+D:/Github/Nothing/My project (3)
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+49460
+-job-worker-count
+11
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: D:/Github/Nothing/My project (3)
+D:/Github/Nothing/My project (3)
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [7892]  Target information:
+
+Player connection [7892]  * "[IP] 192.168.1.105 [Port] 0 [Flags] 2 [Guid] 2576239829 [EditorId] 2576239829 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-A4065SR) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [7892] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [7892] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.32f1 (b2e806cf271c)
+[Subsystems] Discovering subsystems at path G:/Unity/6000.0.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Github/Nothing/My project (3)/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     4039 MB
+    Driver:   31.0.21916.2
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Initialize mono
+Mono path[0] = 'G:/Unity/6000.0.32f1/Editor/Data/Managed'
+Mono path[1] = 'G:/Unity/6000.0.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'G:/Unity/6000.0.32f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56912
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: G:/Unity/6000.0.32f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: G:/Unity/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010029 seconds.
+- Loaded All Assemblies, in  0.913 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.672 seconds
+Domain Reload Profiling: 1585ms
+	BeginReloadAssembly (373ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (79ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (103ms)
+	LoadAllAssembliesAndSetupDomain (333ms)
+		LoadAssemblies (373ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (324ms)
+			TypeCache.Refresh (322ms)
+				TypeCache.ScanAssembly (296ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (673ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (578ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (49ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (111ms)
+			ProcessInitializeOnLoadAttributes (297ms)
+			ProcessInitializeOnLoadMethodAttributes (113ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.743 seconds
+Refreshing native plugins compatible for Editor in 1.69 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.480 seconds
+Domain Reload Profiling: 3219ms
+	BeginReloadAssembly (465ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (84ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (77ms)
+	LoadAllAssembliesAndSetupDomain (1088ms)
+		LoadAssemblies (878ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (543ms)
+			TypeCache.Refresh (390ms)
+				TypeCache.ScanAssembly (356ms)
+			BuildScriptInfoCaches (120ms)
+			ResolveRequiredComponents (27ms)
+	FinalizeReload (1481ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1169ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (195ms)
+			ProcessInitializeOnLoadAttributes (801ms)
+			ProcessInitializeOnLoadMethodAttributes (152ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 2.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 197 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5910 unused Assets / (3.8 MB). Loaded Objects now: 6577.
+Memory consumption went from 159.3 MB to 155.5 MB.
+Total: 14.786100 ms (FindLiveObjects: 1.579900 ms CreateObjectMapping: 0.672200 ms MarkObjects: 8.720300 ms  DeleteObjects: 3.811800 ms)
+
+========================================================================
+Received Prepare
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 1.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5901 unused Assets / (3.7 MB). Loaded Objects now: 6579.
+Memory consumption went from 128.7 MB to 125.0 MB.
+Total: 12.637200 ms (FindLiveObjects: 1.107600 ms CreateObjectMapping: 0.637000 ms MarkObjects: 7.410200 ms  DeleteObjects: 3.481000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.540 seconds
+Refreshing native plugins compatible for Editor in 1.58 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.539 seconds
+Domain Reload Profiling: 3081ms
+	BeginReloadAssembly (489ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (84ms)
+	RebuildCommonClasses (74ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (905ms)
+		LoadAssemblies (843ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (380ms)
+			TypeCache.Refresh (18ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (334ms)
+			ResolveRequiredComponents (23ms)
+	FinalizeReload (1539ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1116ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (199ms)
+			ProcessInitializeOnLoadAttributes (788ms)
+			ProcessInitializeOnLoadMethodAttributes (110ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (23ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 1.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5908 unused Assets / (3.8 MB). Loaded Objects now: 6594.
+Memory consumption went from 142.8 MB to 139.0 MB.
+Total: 13.057700 ms (FindLiveObjects: 1.163700 ms CreateObjectMapping: 0.678100 ms MarkObjects: 7.464400 ms  DeleteObjects: 3.750200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.479 seconds
+Refreshing native plugins compatible for Editor in 1.53 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.458 seconds
+Domain Reload Profiling: 2939ms
+	BeginReloadAssembly (474ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (84ms)
+	RebuildCommonClasses (76ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (858ms)
+		LoadAssemblies (795ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (373ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (334ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (1459ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1090ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (215ms)
+			ProcessInitializeOnLoadAttributes (744ms)
+			ProcessInitializeOnLoadMethodAttributes (109ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (23ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 1.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5908 unused Assets / (3.8 MB). Loaded Objects now: 6596.
+Memory consumption went from 141.1 MB to 137.3 MB.
+Total: 13.284100 ms (FindLiveObjects: 1.198000 ms CreateObjectMapping: 0.667300 ms MarkObjects: 7.721500 ms  DeleteObjects: 3.696000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.412 seconds
+Refreshing native plugins compatible for Editor in 1.59 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.414 seconds
+Domain Reload Profiling: 2827ms
+	BeginReloadAssembly (439ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (80ms)
+	RebuildCommonClasses (72ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (829ms)
+		LoadAssemblies (750ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (360ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (322ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (1414ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1053ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (188ms)
+			ProcessInitializeOnLoadAttributes (732ms)
+			ProcessInitializeOnLoadMethodAttributes (111ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (22ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 1.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5908 unused Assets / (3.7 MB). Loaded Objects now: 6598.
+Memory consumption went from 141.1 MB to 137.3 MB.
+Total: 13.190300 ms (FindLiveObjects: 1.139200 ms CreateObjectMapping: 0.653300 ms MarkObjects: 7.543800 ms  DeleteObjects: 3.852200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.423 seconds
+Refreshing native plugins compatible for Editor in 1.65 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.417 seconds
+Domain Reload Profiling: 2842ms
+	BeginReloadAssembly (437ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (80ms)
+	RebuildCommonClasses (72ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (842ms)
+		LoadAssemblies (757ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (364ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (326ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (1418ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1052ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (190ms)
+			ProcessInitializeOnLoadAttributes (729ms)
+			ProcessInitializeOnLoadMethodAttributes (112ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (25ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 1.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5908 unused Assets / (3.7 MB). Loaded Objects now: 6600.
+Memory consumption went from 141.1 MB to 137.4 MB.
+Total: 12.711200 ms (FindLiveObjects: 1.111100 ms CreateObjectMapping: 0.700500 ms MarkObjects: 7.254900 ms  DeleteObjects: 3.642900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.468 seconds
+Refreshing native plugins compatible for Editor in 1.64 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.402 seconds
+Domain Reload Profiling: 2872ms
+	BeginReloadAssembly (469ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (98ms)
+	RebuildCommonClasses (72ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (855ms)
+		LoadAssemblies (760ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (384ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (344ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (1403ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1021ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (193ms)
+			ProcessInitializeOnLoadAttributes (708ms)
+			ProcessInitializeOnLoadMethodAttributes (102ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (22ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 1.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5908 unused Assets / (3.8 MB). Loaded Objects now: 6602.
+Memory consumption went from 141.1 MB to 137.3 MB.
+Total: 13.947400 ms (FindLiveObjects: 1.182600 ms CreateObjectMapping: 0.664900 ms MarkObjects: 7.930300 ms  DeleteObjects: 4.168000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.413 seconds
+Refreshing native plugins compatible for Editor in 1.62 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.416 seconds
+Domain Reload Profiling: 2830ms
+	BeginReloadAssembly (435ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (76ms)
+	RebuildCommonClasses (72ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (830ms)
+		LoadAssemblies (745ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (365ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (325ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (1417ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1054ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (188ms)
+			ProcessInitializeOnLoadAttributes (739ms)
+			ProcessInitializeOnLoadMethodAttributes (105ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 1.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5908 unused Assets / (3.7 MB). Loaded Objects now: 6604.
+Memory consumption went from 141.1 MB to 137.4 MB.
+Total: 12.982800 ms (FindLiveObjects: 1.150600 ms CreateObjectMapping: 0.661600 ms MarkObjects: 7.277700 ms  DeleteObjects: 3.891300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 63446.442855 seconds.
+  path: Assets/SimpleNaturePack/Models
+  artifactKey: Guid(f2460ba6bbb1eee41b63499dcba676dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models using Guid(f2460ba6bbb1eee41b63499dcba676dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b22a4d535eaf3a800d83f3b535b3bee') in 0.0080075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/SimpleNaturePack/Models/Branch_01.fbx
+  artifactKey: Guid(5528351815fd4c04abf537f22c7e18f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Branch_01.fbx using Guid(5528351815fd4c04abf537f22c7e18f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '407690c440d5210eceda977b889b388b') in 1.0974659 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_02.fbx
+  artifactKey: Guid(3a775dc2c1a334b45a5667a56fe92c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_02.fbx using Guid(3a775dc2c1a334b45a5667a56fe92c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f913f53748aa18272d2fe47e32e5e2ae') in 0.0376321 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/SimpleNaturePack/Models/Mushroom_01.fbx
+  artifactKey: Guid(d062f5c56ffb55c4f832432ada269abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Mushroom_01.fbx using Guid(d062f5c56ffb55c4f832432ada269abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f3ef5e3a98da1207b404adb687dc5373') in 0.0614587 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_02.fbx
+  artifactKey: Guid(4471b1f7f824e4d44887e1364c6fc61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_02.fbx using Guid(4471b1f7f824e4d44887e1364c6fc61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd183bc0fb227632c1b3c263a7723e1e4') in 0.0518298 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_04.fbx
+  artifactKey: Guid(33ebf3440b12ec245bd008cd464f8d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_04.fbx using Guid(33ebf3440b12ec245bd008cd464f8d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2515751d411e6cbdcef0495e5afbdbb5') in 0.0324466 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_01.fbx
+  artifactKey: Guid(6c7eaede4efc960409fb9ef2dfb77f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_01.fbx using Guid(6c7eaede4efc960409fb9ef2dfb77f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4577f69ebbf62606891fd52d164cdf0c') in 0.054791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/SimpleNaturePack/Models/Ground_03.fbx
+  artifactKey: Guid(661464e19c087564badb2bf5230c842c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Ground_03.fbx using Guid(661464e19c087564badb2bf5230c842c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4963c7db9d6858cd53e9abf03f383393') in 0.1690585 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_03.fbx
+  artifactKey: Guid(69f0af3a0a6c73b4ab4b89eb82cdc488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_03.fbx using Guid(69f0af3a0a6c73b4ab4b89eb82cdc488) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00711b95f1c459238f872d9002b4efab') in 0.0556462 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/SimpleNaturePack/Models/Mushroom_02.fbx
+  artifactKey: Guid(6c890c97a154a474082af84a379dffce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Mushroom_02.fbx using Guid(6c890c97a154a474082af84a379dffce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c3c22de3ad69cc82312354b9c891a5e6') in 0.0553352 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/SimpleNaturePack/Models/Flowers_02.fbx
+  artifactKey: Guid(8ea980fdc4aa5e749b000c1a0d4b9bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Flowers_02.fbx using Guid(8ea980fdc4aa5e749b000c1a0d4b9bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd61c27c09805054db5c3f016b7f39c02') in 0.0652302 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_01.fbx
+  artifactKey: Guid(e9089b1db16b58f4282a94e020b9c0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_01.fbx using Guid(e9089b1db16b58f4282a94e020b9c0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27a03d25da19de9318d44afabc01fffd') in 0.0352295 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/SimpleNaturePack/Models/Flowers_01.fbx
+  artifactKey: Guid(b5a80b3e2a089b841b155d7c7f461e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Flowers_01.fbx using Guid(b5a80b3e2a089b841b155d7c7f461e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '91a7c23244b0da01a0d769ae82492e52') in 0.0611739 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.877003 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Branch_01.prefab
+  artifactKey: Guid(b9de24523a11d714db3851b5f0f9d527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Branch_01.prefab using Guid(b9de24523a11d714db3851b5f0f9d527) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dd50dbfea701cbe6d9cd870b5df521a8') in 0.034892 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Grass_01.prefab
+  artifactKey: Guid(f1fc5bb90ac285e4486771552d63bcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Grass_01.prefab using Guid(f1fc5bb90ac285e4486771552d63bcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd1552de32100099b0daabcfefffb234f') in 0.028064 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Tree_01.prefab
+  artifactKey: Guid(88f2fd29f58b9734683512546acec310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Tree_01.prefab using Guid(88f2fd29f58b9734683512546acec310) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7accf55cd7c03bbca3aabe98b4561ab4') in 0.0301914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Ground_01.prefab
+  artifactKey: Guid(ebee340de387f334f9ac44e044abd8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Ground_01.prefab using Guid(ebee340de387f334f9ac44e044abd8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd5f39d6ba3bf2e2fa9395f80e5a9a67') in 0.0272622 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Ground_03.prefab
+  artifactKey: Guid(3f9b178ccd3b86f4ebbfc1f5a2815e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Ground_03.prefab using Guid(3f9b178ccd3b86f4ebbfc1f5a2815e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd119f7ebbea5edf0ca9d937859aac06d') in 0.0303107 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Flowers_01.prefab
+  artifactKey: Guid(ac8efb728f1fb9b4092c4df591c827ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Flowers_01.prefab using Guid(ac8efb728f1fb9b4092c4df591c827ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '14bd0eb8362a8ae01c1884fca6e8593d') in 0.0313427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Mushroom_02.prefab
+  artifactKey: Guid(494f6d43e170e9145bc7865d243ee00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Mushroom_02.prefab using Guid(494f6d43e170e9145bc7865d243ee00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7237ed30a3b209dd12f800a692cb2d9c') in 0.0294856 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Grass_02.prefab
+  artifactKey: Guid(ffbddc4ef9676cc419e81e06aaa836d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Grass_02.prefab using Guid(ffbddc4ef9676cc419e81e06aaa836d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a567aaa950d76bed56bea93894319760') in 0.0305571 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Rock_03.prefab
+  artifactKey: Guid(0fde05fa0f3321942a21896ff4f0856f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Rock_03.prefab using Guid(0fde05fa0f3321942a21896ff4f0856f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd20778c6a65329c65fa0d7de327b0fd4') in 0.0268119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Rock_05.prefab
+  artifactKey: Guid(a778b631c6253a04899cb31bad047c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Rock_05.prefab using Guid(a778b631c6253a04899cb31bad047c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1078dfc871bbc2817ae27f576ef8bf4') in 0.0275865 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Ground_02.prefab
+  artifactKey: Guid(e2e682b966e3f644392ffbfab511e0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Ground_02.prefab using Guid(e2e682b966e3f644392ffbfab511e0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b12a0b00304e72be5c0a0bc1157116b5') in 0.037418 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Flowers_02.prefab
+  artifactKey: Guid(299e7a1cb6456cf4fa6079cf5978df9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Flowers_02.prefab using Guid(299e7a1cb6456cf4fa6079cf5978df9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e0061afb4499056ddf31697483dcd9a2') in 0.0293078 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.522534 seconds.
+  path: Assets/SimpleNaturePack/Textures/NaturePackLite_Texture_01.png
+  artifactKey: Guid(28a51d508c86a8948b59df81d5188b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Textures/NaturePackLite_Texture_01.png using Guid(28a51d508c86a8948b59df81d5188b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd662b75cfde9fbe783210eb1457f5725') in 0.0396702 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.112416 seconds.
+  path: Assets/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat
+  artifactKey: Guid(886ecf0ee44718246aa083d8aad49b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat using Guid(886ecf0ee44718246aa083d8aad49b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '528e0fe2622a1f0d8c39e3fa5ea35382') in 0.0593677 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 837.710403 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly
+  artifactKey: Guid(90acaf2d4f27ca247b89e363e4f5c4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly using Guid(90acaf2d4f27ca247b89e363e4f5c4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd494d3a2ddbc64dd9f71b4c5b08aca51') in 0.0011322 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.053328 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Materials
+  artifactKey: Guid(c0fb92ab5b529084cb48601341dc1cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Materials using Guid(c0fb92ab5b529084cb48601341dc1cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'adcf307b1e40af75f0a2f228b2c24f14') in 0.0009014 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101912 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Materials/Gray.mat
+  artifactKey: Guid(6bfc9122a9435664ba0f859e86809552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Materials/Gray.mat using Guid(6bfc9122a9435664ba0f859e86809552) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afe03d373529d52bbba0e812ebd2f28c') in 0.0362076 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.109577 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks
+  artifactKey: Guid(377053dea5b596848996a4be756aea90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks using Guid(377053dea5b596848996a4be756aea90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fdef37af0d64ac1a72a0916fdb5fa199') in 0.0010157 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.957526 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks
+  artifactKey: Guid(bd91789908aea7147aec956be0179167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks using Guid(bd91789908aea7147aec956be0179167) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb7d0410754137325332d63f7108ce59') in 0.0008493 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.919904 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks
+  artifactKey: Guid(78fa97ce66a1c6d4c9f300969e52b248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks using Guid(78fa97ce66a1c6d4c9f300969e52b248) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c67892c40c6da61ea947e830c549a75c') in 0.0008966 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017435 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_1.fbx
+  artifactKey: Guid(c4b0639b23e1f8c45b6b0b3cd78cb6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_1.fbx using Guid(c4b0639b23e1f8c45b6b0b3cd78cb6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '736aef345436f05a173df8ec13b30d20') in 0.0477958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_3.fbx
+  artifactKey: Guid(e1a0979ebb672a647b738acc7be37472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_3.fbx using Guid(e1a0979ebb672a647b738acc7be37472) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1173dec9caaeee975b2270891c89708') in 0.0470485 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_4.fbx
+  artifactKey: Guid(fb3483bd1afd6074c8ec01f3940775ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_4.fbx using Guid(fb3483bd1afd6074c8ec01f3940775ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'baf77e66986b59f3dca8576830e1ea23') in 0.0463989 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_20.fbx
+  artifactKey: Guid(7ae8a6e3d2a94a845b7556ac8a468b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_20.fbx using Guid(7ae8a6e3d2a94a845b7556ac8a468b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '025d4a841d127760624ace78fc7d641d') in 0.0373034 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_11.fbx
+  artifactKey: Guid(13aafd9c8dff54e4db16eb36b36e0c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_11.fbx using Guid(13aafd9c8dff54e4db16eb36b36e0c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e53ad1e497514fcbeff2c5a740ce3246') in 0.0479499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_18.fbx
+  artifactKey: Guid(bf19e96c2d7f55b44a1e72aba602476e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_18.fbx using Guid(bf19e96c2d7f55b44a1e72aba602476e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '34e49ce6d6b1ee209e69421de56d2a6a') in 0.0412831 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_19.fbx
+  artifactKey: Guid(53f38bf45a6e0c546a0f576e826321b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_19.fbx using Guid(53f38bf45a6e0c546a0f576e826321b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'effdf18ba7356fd4952b124b10d31cfc') in 0.0398533 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_9.fbx
+  artifactKey: Guid(f0cc928861f11364ea489f3db76bc44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_9.fbx using Guid(f0cc928861f11364ea489f3db76bc44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '321fb4d2b59d1ffb5df5d33e1bd9a690') in 0.0476622 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_13.fbx
+  artifactKey: Guid(16d95c78e59cad44e8c428704231ecac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_13.fbx using Guid(16d95c78e59cad44e8c428704231ecac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '909e3f32ff2d3b73d334cdc27ab031ce') in 0.0419651 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_17.fbx
+  artifactKey: Guid(7e995581dde04a245ad9269b28b3d516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Block Rocks/Block_Rock_17.fbx using Guid(7e995581dde04a245ad9269b28b3d516) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e65e9356ec36171d6ae60f6b9e2a3bf2') in 0.0412722 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.867703 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks
+  artifactKey: Guid(c1ff8d2ad64b22c439645a0c5bc2924e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks using Guid(c1ff8d2ad64b22c439645a0c5bc2924e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69c476e3e150eb43bb85e12402f7e2ca') in 0.0009987 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056522 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_1.fbx
+  artifactKey: Guid(45e9db3da3c16f1489277c7bc2990c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_1.fbx using Guid(45e9db3da3c16f1489277c7bc2990c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '539b52e43e2a6153198ae0b34ef7d363') in 0.0457885 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_36.fbx
+  artifactKey: Guid(d27229e074bba19408497be53c95cece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_36.fbx using Guid(d27229e074bba19408497be53c95cece) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e42c3bcd5105ffbb720380bf4e7e06bc') in 0.0480459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_35.fbx
+  artifactKey: Guid(dcddc260a0eb0d9459fefd6f5b0edf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_35.fbx using Guid(dcddc260a0eb0d9459fefd6f5b0edf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2e1655450ac551a67c061cbf330c2396') in 0.0494132 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_39.fbx
+  artifactKey: Guid(04ba7e5350507e6429f4fe2a83207afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_39.fbx using Guid(04ba7e5350507e6429f4fe2a83207afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53822146eca31682ef4f5ec309983b86') in 0.0533016 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_5.fbx
+  artifactKey: Guid(cdb980c7ab7f61747b9402d7e492c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_5.fbx using Guid(cdb980c7ab7f61747b9402d7e492c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '872ab8cd321aa46870403b1fb1f39e32') in 0.0528649 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_40.fbx
+  artifactKey: Guid(9127bddeaf4ea294584893dfdc33e2e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_40.fbx using Guid(9127bddeaf4ea294584893dfdc33e2e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a89a6afcc38b3637828989fd10110d42') in 0.0454855 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_34.fbx
+  artifactKey: Guid(9c873eacba9304143b9ad70dbc4d82cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_34.fbx using Guid(9c873eacba9304143b9ad70dbc4d82cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13386c467e58420f3d7ae13111d2f93e') in 0.0480223 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_23.fbx
+  artifactKey: Guid(bf2e7dffb5eee2d4ea938a8009cc6702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_23.fbx using Guid(bf2e7dffb5eee2d4ea938a8009cc6702) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9ff02ec02a1c38dd1d409740ab18bb8c') in 0.0427402 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_21.fbx
+  artifactKey: Guid(1a6e4d6db5c11734db433a8da627bc9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_21.fbx using Guid(1a6e4d6db5c11734db433a8da627bc9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '857bcb67f07162f3ec4f734da07b0552') in 0.0429966 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_8.fbx
+  artifactKey: Guid(aea71a8a81d178c4ab7d8b392c58d4bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_8.fbx using Guid(aea71a8a81d178c4ab7d8b392c58d4bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '542cd8c455450e915f1a3730087b8a5b') in 0.0457212 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_38.fbx
+  artifactKey: Guid(01ee94a56fcf76d4fb6c33e1e62c2969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_38.fbx using Guid(01ee94a56fcf76d4fb6c33e1e62c2969) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '54dc101a8c55c5b6d5a94747f25042c2') in 0.0431483 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_22.fbx
+  artifactKey: Guid(cb97f5c2b22600c498ab5af2b8dcfec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_22.fbx using Guid(cb97f5c2b22600c498ab5af2b8dcfec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d6a95a294360db12d11c239dedc545a') in 0.0503977 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_31.fbx
+  artifactKey: Guid(0557f75a4ece6f84a841270e1c8e55a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_31.fbx using Guid(0557f75a4ece6f84a841270e1c8e55a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd62f565c2efd359caf3a29c418f0cf0d') in 0.0430121 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_37.fbx
+  artifactKey: Guid(9cdc4da82f8c9684aaafe8eb5b12b9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_37.fbx using Guid(9cdc4da82f8c9684aaafe8eb5b12b9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45669c49180b54f22b2f77f0cb33bb50') in 0.0504023 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_30.fbx
+  artifactKey: Guid(84dcde963e523b54392896a90be88b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_30.fbx using Guid(84dcde963e523b54392896a90be88b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd4edaf566f22e7f543b971fd6409a144') in 0.0455218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_19.fbx
+  artifactKey: Guid(21b396e7ab288f34882a14a1661b3ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_19.fbx using Guid(21b396e7ab288f34882a14a1661b3ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '31c7fed64a325967b3de93689017ce9e') in 0.046788 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_6.fbx
+  artifactKey: Guid(034c0aa4700a95a44bfa5ed5077cddc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_6.fbx using Guid(034c0aa4700a95a44bfa5ed5077cddc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a7bdc7566d3b206ab98c6ad2f5fcf65') in 0.0436302 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_3.fbx
+  artifactKey: Guid(25a58604d6409744487508c47ab97d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_3.fbx using Guid(25a58604d6409744487508c47ab97d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a929e484284b847d8549972b6b46d04') in 0.042939 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_32.fbx
+  artifactKey: Guid(8b459405c48aa424ab94f566305a783e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_32.fbx using Guid(8b459405c48aa424ab94f566305a783e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc7fc7219916909496ccda005d075fc8') in 0.0458438 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_15.fbx
+  artifactKey: Guid(ccecababb9fbae2448182ef5d6db92ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Rocks/Block Rocks/Moss Block Rocks/Block_Moss_Rock_15.fbx using Guid(ccecababb9fbae2448182ef5d6db92ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7ef248c532e1a8f6d789c4f0c5dc33dd') in 0.0429874 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.553503 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains
+  artifactKey: Guid(a5ce3108496d55c438d93ec3fea794ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains using Guid(a5ce3108496d55c438d93ec3fea794ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8e9d7ae670eda80c10727ab2c440d220') in 0.0009418 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.658025 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD
+  artifactKey: Guid(d880cdc4b2d261541a785ea4ac4ac9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD using Guid(d880cdc4b2d261541a785ea4ac4ac9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '911caf53a415a8dd10e003212ff81f99') in 0.0008994 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024355 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_01_LOD.fbx
+  artifactKey: Guid(1e216130e2bf298479e1c243b5220eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_01_LOD.fbx using Guid(1e216130e2bf298479e1c243b5220eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a8b8f51cbf97962b4c59d9f31ded44d2') in 0.0927379 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_17_LOD.fbx
+  artifactKey: Guid(d0e8a9db0c685f54894e68a39e08e614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_17_LOD.fbx using Guid(d0e8a9db0c685f54894e68a39e08e614) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '018346b18fc9545a0bd52d18a9c192f7') in 0.0813254 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_13_LOD.fbx
+  artifactKey: Guid(691d3e38a5a43734882dd437c38a2f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_13_LOD.fbx using Guid(691d3e38a5a43734882dd437c38a2f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '79f910f50728736e41516992c23386f2') in 0.0710788 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_12_LOD.fbx
+  artifactKey: Guid(aaf381db14e13a34598c00fbaabfa75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_12_LOD.fbx using Guid(aaf381db14e13a34598c00fbaabfa75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16a1727ade8f773cfda496aea91f8a35') in 0.0771965 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_20_LOD.fbx
+  artifactKey: Guid(afd99995c1bac5f4e920206dcaaf0b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_20_LOD.fbx using Guid(afd99995c1bac5f4e920206dcaaf0b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf9fb6067608dfcb03e22ca6cac2e2ff') in 0.0727864 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_08_LOD.fbx
+  artifactKey: Guid(8c3fcc66a187c3b44a3824c4f38878f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_08_LOD.fbx using Guid(8c3fcc66a187c3b44a3824c4f38878f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7ae0e49de97769524081deb89b9e3d3a') in 0.0732791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_15_LOD.fbx
+  artifactKey: Guid(9482a5baba0f0c841bd31c3206c5d4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_15_LOD.fbx using Guid(9482a5baba0f0c841bd31c3206c5d4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '01c2846ff6829ef6df0003c2ca141282') in 0.0719654 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_09_LOD.fbx
+  artifactKey: Guid(91ae84f2405e4b946b677d103864f923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/LOD/Mountain_L_09_LOD.fbx using Guid(91ae84f2405e4b946b677d103864f923) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d17e4bc526cf28c087b7acb1fcc01df') in 0.075277 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.799044 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/NoLOD
+  artifactKey: Guid(b62f602ee6c44454588f77333583022a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/NoLOD using Guid(b62f602ee6c44454588f77333583022a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '259a27627cf9267116565bfa5c96145b') in 0.0009628 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022480 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/NoLOD/Mountain_L_01.fbx
+  artifactKey: Guid(34087b58d802c774da3b65572f1cad3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/NoLOD/Mountain_L_01.fbx using Guid(34087b58d802c774da3b65572f1cad3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe32d850b5bc573e2a9d0ed088cf4d2d') in 0.069382 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/NoLOD/Mountain_L_13.fbx
+  artifactKey: Guid(9528d9beea9f9cf4cb91d1358159215a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/NoLOD/Mountain_L_13.fbx using Guid(9528d9beea9f9cf4cb91d1358159215a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d53034b43e9484ce7ef6b21100ed521') in 0.053212 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/NoLOD/Mountain_L_20.fbx
+  artifactKey: Guid(d4797254c87a9f54cbcd9b6fad0a99df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Mountains/NoLOD/Mountain_L_20.fbx using Guid(d4797254c87a9f54cbcd9b6fad0a99df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2fdb45983d677950cd67e19bfb7015e1') in 0.0549278 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.517841 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Terrains
+  artifactKey: Guid(0c38850f8cbf3e646b8724905f0d51be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Terrains using Guid(0c38850f8cbf3e646b8724905f0d51be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a23c3b66fb840c637b43fdd7b0a543c') in 0.0009644 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.689972 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Terrains/Small Terrains
+  artifactKey: Guid(f06446609a41837418a364e33955f0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Terrains/Small Terrains using Guid(f06446609a41837418a364e33955f0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '85547215f1af8d6a1a720d2477410caa') in 0.0008373 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015923 seconds.
+  path: Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Terrains/Small Terrains/Small_Terrain_1.fbx
+  artifactKey: Guid(b313ee04abae43646a6fde3b88a6ae68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HQP STUDIOS/Rocks and Terrains Pack - Low Poly/Models/Terrains/Terrains/Small Terrains/Small_Terrain_1.fbx using Guid(b313ee04abae43646a6fde3b88a6ae68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e46402119f3db1602b2773937cbb508') in 0.0497778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
